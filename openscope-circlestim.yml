@@ -1,4 +1,4 @@
-name: openscope-glo-stim
+name: openscope-circlestim
 channels:
 - defaults
 dependencies:
