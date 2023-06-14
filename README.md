@@ -1,4 +1,4 @@
-# openscope-barcodingstim
+# consciousness-barcodingstim
 
 ## Dependencies:
 * Windows OS (see Camstim package)
@@ -13,13 +13,12 @@
 
 ## Installation with Anaconda or Miniconda:
 1. Navigate to repository and install conda environment.
-`conda env create -f openscope-circlestim.yml`
+`conda env create -f consciousness-circlestim.yml`
 2. Activate the environment.
-`conda activate openscope-circlestim`
+`conda activate consciousness-circlestim`
 3. Install the AIBS camstim package in the environment.
 `pip install camstim/.`
 4. Download and install `AVbin` for your OS.
  
 ## Run Scripts
-* Run the pilot_script.py under test-scripts folder to run Full Field Flicker and Static Grating and Drifting Grating
-* Run the production_script.py under test-scripts folder to run Full Field Flicker and Static Grating and Drifting Grating
+* Run the circle_stim.py 
